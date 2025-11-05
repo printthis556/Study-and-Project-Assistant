@@ -1,0 +1,8 @@
+# Build output
+/build/
+
+# VS Code
+.vscode/
+
+# User files
+*.user
